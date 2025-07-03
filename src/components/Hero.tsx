@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section className="relative min-h-screen mx-4 md:mx-16 flex items-center justify-center bg-cream">
       <Image
-        src="/bggg.WEBP"
+        src="/bggg.webp"
         alt="Animated background"
         fill
         className="object-cover object-center opacity-80"
